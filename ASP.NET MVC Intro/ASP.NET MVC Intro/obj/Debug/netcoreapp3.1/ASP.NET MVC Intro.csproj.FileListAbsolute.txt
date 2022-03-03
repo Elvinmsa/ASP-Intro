@@ -1,0 +1,36 @@
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.exe
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.deps.json
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.dll
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.pdb
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET MVC Intro.StaticWebAssets.Manifest.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET MVC Intro.StaticWebAssets.xml
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET MVC Intro.styles.css
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.RazorTargetAssemblyInfo.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.dll
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.pdb
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.genruntimeconfig.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.Views.dll
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\bin\Debug\netcoreapp3.1\ASP.NET MVC Intro.Views.pdb
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.RazorAssemblyInfo.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.RazorAssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.TagHelpers.input.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.TagHelpers.output.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.RazorCoreGenerate.cache
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.RazorTargetAssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.Views.pdb
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\ASP.NET MVC Intro.csproj.CopyComplete
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SADIGOV\Desktop\P126\ASP.NET MVC\INTRO\ASP.NET MVC Intro\ASP.NET MVC Intro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
